@@ -80,4 +80,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Lakshmanyadav236/DS-LEETCODE/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Lakshmanyadav236/DS-LEETCODE/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Lakshmanyadav236/DS-LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
